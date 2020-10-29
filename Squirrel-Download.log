@@ -1,0 +1,105 @@
+﻿[28/10/20 14:45:05] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 14:45:05] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 14:45:05] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3: System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[28/10/20 14:45:06] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3: System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[28/10/20 14:45:06] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3: System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[28/10/20 14:45:06] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3: System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[28/10/20 14:45:06] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3: System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[28/10/20 14:45:07] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3: System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[28/10/20 14:45:07] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3: System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[28/10/20 14:45:07] warn: SingleGlobalInstance: Failed to grab lockfile, will retry: C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3: System.IO.IOException: El proceso no puede obtener acceso al archivo 'C:\Users\Tomas\AppData\Local\Temp\.squirrel-lock-0B73B67BA8AEBBA7D1FC2C27D665BB9085A5D2A3' porque está siendo utilizado en otro proceso.
+   en System.IO.__Error.WinIOError(Int32 errorCode, String maybeFullPath)
+   en System.IO.FileStream.Init(String path, FileMode mode, FileAccess access, Int32 rights, Boolean useRights, FileShare share, Int32 bufferSize, FileOptions options, SECURITY_ATTRIBUTES secAttrs, String msgPath, Boolean bFromProxy, Boolean useLongPath, Boolean checkHost)
+   en System.IO.FileStream..ctor(String path, FileMode mode, FileAccess access, FileShare share)
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+[28/10/20 14:45:08] fatal: Finished with unhandled exception: System.AggregateException: Se han producido uno o varios errores. ---> System.Exception: Couldn't acquire lock, is another instance running
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+   en Squirrel.UpdateManager.<acquireUpdateLock>b__32_0()
+   en System.Threading.Tasks.Task`1.InnerInvoke()
+   en System.Threading.Tasks.Task.Execute()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Squirrel.UpdateManager.<CheckForUpdate>d__7.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Squirrel.Update.Program.<Download>d__7.MoveNext()
+   --- Fin del seguimiento de la pila de la excepción interna ---
+   en System.Threading.Tasks.Task.ThrowIfExceptional(Boolean includeTaskCanceledExceptions)
+   en System.Threading.Tasks.Task`1.GetResultCore(Boolean waitCompletionNotification)
+   en System.Threading.Tasks.Task`1.get_Result()
+   en Squirrel.Update.Program.executeCommandLine(String[] args)
+   en Squirrel.Update.Program.main(String[] args)
+---> (Nº de excepción interna 0) System.Exception: Couldn't acquire lock, is another instance running
+   en Squirrel.SingleGlobalInstance..ctor(String key, TimeSpan timeOut)
+   en Squirrel.UpdateManager.<acquireUpdateLock>b__32_0()
+   en System.Threading.Tasks.Task`1.InnerInvoke()
+   en System.Threading.Tasks.Task.Execute()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Squirrel.UpdateManager.<CheckForUpdate>d__7.MoveNext()
+--- Fin del seguimiento de la pila de la ubicación anterior donde se produjo la excepción ---
+   en System.Runtime.CompilerServices.TaskAwaiter.ThrowForNonSuccess(Task task)
+   en System.Runtime.CompilerServices.TaskAwaiter.HandleNonSuccessAndDebuggerNotification(Task task)
+   en Squirrel.Update.Program.<Download>d__7.MoveNext()<---
+
+[28/10/20 15:31:12] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:31:12] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:31:12] info: CheckForUpdateImpl: Generated new staging user ID: 676a9b09-004c-52a6-983d-a76c4c25c772
+[28/10/20 15:31:12] info: CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:31:14] info: FileDownloader: Downloading url: https://atom.io/api/updates-x64/RELEASES?version=1.52.0&os_version=10.0.19041&id=atom&localVersion=1.52.0&arch=amd64
+[28/10/20 15:31:16] info: Program: Finished Squirrel Updater
+[28/10/20 15:31:43] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:31:43] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:31:43] info: CheckForUpdateImpl: Using existing staging user ID: 676a9b09-004c-52a6-983d-a76c4c25c772
+[28/10/20 15:31:44] info: CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:31:44] info: FileDownloader: Downloading url: https://atom.io/api/updates-x64/RELEASES?version=1.52.0&os_version=10.0.19041&id=atom&localVersion=1.52.0&arch=amd64
+[28/10/20 15:31:45] info: Program: Finished Squirrel Updater
+[28/10/20 15:34:43] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:34:43] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:34:43] info: CheckForUpdateImpl: Using existing staging user ID: 676a9b09-004c-52a6-983d-a76c4c25c772
+[28/10/20 15:34:43] info: CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:34:43] info: FileDownloader: Downloading url: https://atom.io/api/updates-x64/RELEASES?version=1.52.0&os_version=10.0.19041&id=atom&localVersion=1.52.0&arch=amd64
+[28/10/20 15:34:45] info: Program: Finished Squirrel Updater
+[28/10/20 15:41:38] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:41:38] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:41:38] info: CheckForUpdateImpl: Using existing staging user ID: 676a9b09-004c-52a6-983d-a76c4c25c772
+[28/10/20 15:41:38] info: CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[28/10/20 15:41:38] info: FileDownloader: Downloading url: https://atom.io/api/updates-x64/RELEASES?version=1.52.0&os_version=10.0.19041&id=atom&localVersion=1.52.0&arch=amd64
+[28/10/20 15:42:09] info: Program: Finished Squirrel Updater
+[29/10/20 06:53:39] info: Program: Starting Squirrel Updater: --download https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[29/10/20 06:53:39] info: Program: Fetching update information, downloading from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[29/10/20 06:53:39] info: CheckForUpdateImpl: Using existing staging user ID: 676a9b09-004c-52a6-983d-a76c4c25c772
+[29/10/20 06:53:39] info: CheckForUpdateImpl: Downloading RELEASES file from https://atom.io/api/updates-x64?version=1.52.0&os_version=10.0.19041
+[29/10/20 06:53:39] info: FileDownloader: Downloading url: https://atom.io/api/updates-x64/RELEASES?version=1.52.0&os_version=10.0.19041&id=atom&localVersion=1.52.0&arch=amd64
+[29/10/20 06:53:40] info: Program: Finished Squirrel Updater
